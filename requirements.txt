@@ -1,0 +1,2 @@
+pandas
+pandas_datareader
