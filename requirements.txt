@@ -1,2 +1,3 @@
 pandas
 pandas_datareader
+backtrader
